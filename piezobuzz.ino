@@ -29,7 +29,7 @@ constexpr uint16_t FREQ_MIN_HZ = 1000;
 constexpr uint16_t FREQ_MAX_HZ = 3000;
 constexpr uint16_t FREQ_DEFAULT_HZ = 1500;
 
-// -------------------- Battery (optional) --------------------
+// -------------------- Battery --------------------
 constexpr int   BATTERY_ADC_PIN = -1;
 constexpr float ADC_REF_V      = 3.3f;
 constexpr int   ADC_BITS       = 12;
